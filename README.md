@@ -1,7 +1,6 @@
 # Hi, I'm Ayan Sheikh! 👋
 
-![Random GIF](https://media.giphy.com/media/random-gif-url/giphy.gif)
-
+![Programming GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ---
 
 👀 **About Me**  
